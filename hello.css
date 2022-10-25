@@ -1,0 +1,7 @@
+@import "~@vismaux/vud/dist/css/vud.min.css";
+@import "~@vismaux/vud-icons/dist/css/vud-icons.min.css";
+
+span {
+    color: red;
+    font-size: 2rem;
+}
