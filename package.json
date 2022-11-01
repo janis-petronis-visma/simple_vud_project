@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@vismaux/vud": "^1.6.2",
-    "@vismaux/vud-icons": "^1.2.4",
+    "@vismaux/vud": "^1.6.3-beta4",
+    "@vismaux/vud-icons": "^1.2.5-beta",
     "css-loader": "^6.7.1",
     "html-webpack-plugin": "^5.5.0",
     "style-loader": "^3.3.1",
